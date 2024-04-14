@@ -1,0 +1,8 @@
+:root {
+    /* -- means global variable accessed with var() in style css */
+    --btnBgColor: #26bb96;
+    --btnTextColor: #202020;
+    background-color: #d3d1d1;
+    color: azure;
+}
+
